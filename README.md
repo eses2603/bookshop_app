@@ -1,14 +1,26 @@
  
-<h1> BookShop-Website </h1>
+# BookShop Website
 
-I've designed and coded a responsive BookShop-Website, and it's ready to explore!
+A responsive bookstore website interface built with HTML, CSS, and JavaScript.
 
-🔸 Project Name: BookShop-Website
+## 🚀 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-🔸 Technologies Used: HTML, CSS, JavaScript
+## 🔐 Features
+- Book listing interface
+- Responsive layout
+- Simple UI navigation
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers...
+## 🧠 Architecture & Focus
+- Responsive web design
+- Clean layout structure
+- Simple product showcase UI
 
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](screen_bookshop-website.gif)
+
+## 💡 Future Improvements
+- Shopping cart system
+- Product filtering
